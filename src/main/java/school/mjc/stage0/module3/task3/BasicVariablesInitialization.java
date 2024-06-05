@@ -5,5 +5,8 @@ public class BasicVariablesInitialization {
         int numOne = 1;
         int numTwo = 10;
         int numThree = 100;
+        System.out.println(numOne);
+        System.out.println(numTwo);
+        System.out.println(numThree);
     }
 }
